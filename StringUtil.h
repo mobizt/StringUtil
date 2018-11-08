@@ -27,6 +27,7 @@ class StringUtil {
     char* integerToString(int n);
     int stringCompare(const char *str1, const char *str2);
     void printString(const char *str);
+    void printStringln(const char *str);
     char* getString(const char* str);
 
 };
